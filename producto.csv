@@ -1,0 +1,69 @@
+CODIGO,Nombre,Categoria,Presentacion,Precio_unitario,CODIGO_PROVEDOR,STOCK
+101-IER-1/2/MAL," Malsbier",maltas,"1/2 lata",3000,1,1486
+102-IER-620/MAL," Malsbier",maltas,"620cc grb",5000,1,589
+103-IER-473/CER," Malsbier",cervezas,"473 cc lata",3000,1,387
+104-LUT-620/TRA,Absolut,tragos,"620cc ",50000,2,982
+105-ICA-1/2/CER,baltica,cervezas,"1/2 lata",3500,2,638
+106-ICA-1/3/CER,baltica,cervezas,"1/3 lata",2000,2,1087
+107-CKS-1/3/CER,becks,cervezas,"1/3 lata",2850,2,945
+108-INA-620/CER,bicervercina,cervezas,"620cc grb",9000,2,868
+109-INA-1/3/CER,bicervercina,cervezas,"1/3 lata",2500,2,1198
+110-INA-250/CER,bicervercina,cervezas,"250 ml",1850,2,1237
+111-OCK-1/2/CER,bock,cervezas,"1/2 lata",3000,3,1248
+112-HMA-1/3/CER,brahma,cervezas,"1/3 lata",2500,3,1063
+113-HMA-350/CER,brahma,cervezas,"350 lata",3000,3,1074
+114-HMA-100/CER,brahma,cervezas,"1000cc grb s/h",26000,3,419
+115-SER-355/CER,budweiser,cervezas,"355 vidrio",3000,4,1425
+116-ONA-250/CER,corona,cervezas,"250 ml",1800,4,745
+117-CAL-1/3/CER,ducal,cervezas,"1/3 lata",2500,4,1119
+118-CAL-BOT/CER,ducal,cervezas,"bot vd 235c",2000,4,761
+119-CAL-620/CER,ducal,cervezas,"620cc grb",6000,4,1221
+120-OKO-1/2/TRA,"Four loko",tragos,"1/2 lata",2900,5,1084
+121-312-250/CER,"goose island 312",cervezas,"250 ml",1900,6,1402
+122-ARI-1/3/CER,huari,cervezas,"1/3 lata",2500,6,403
+123-ARI-250/CER,huari,cervezas,"250 ml",2000,6,1050
+124-ARI-100/CER,huari,cervezas,"1000cc grb c/h",25000,6,1415
+125-ARI-BAR/CER,huari,cervezas,barril,150000,6,833
+126-ARI-620/CER,huari,cervezas,"620cc grb",7000,6,1253
+127-ARI-330/CER,huari,cervezas,"330 vidrio",2700,6,1375
+128-IAL-1/2/CER,imperial,cervezas,"1/2 lata",2400,7,1472
+129-IAL-1/3/CER,imperial,cervezas,"1/3 lata",2000,7,567
+130-IAL-100/CER,imperial,cervezas,"1000cc grb s/h",25500,7,1266
+131-IAL-620/CER,imperial,cervezas,"620cc grb",6100,7,628
+132-DOR-BOT/TRA,Jimador,tragos,"bot vd 1000cc",60000,8,1316
+133-SS-354/TRA,mikes's,tragos,"354 lata",3500,8,1021
+134-EÑA-100/CER,paceña,cervezas,"1000cc grb s/h",24900,8,947
+135-EÑA-1/3/CER,paceña,cervezas,"1/3 lata",2300,8,742
+136-EÑA-BOT/CER,paceña,cervezas,"bot vd rt 235c",1800,8,1332
+137-EÑA-620/CER,paceña,cervezas,"620cc grb",5000,8,1470
+138-EÑA-1/2/CER,paceña,cervezas,"1/2 lata",2750,8,1476
+139-EÑA-710/CER,paceña,cervezas,"710cc grb",7000,8,125
+140-EÑA-250/CER,paceña,cervezas,"250 ml",2000,8,510
+141-EÑA-BAR/CER,paceña,cervezas,barril,150000,8,1386
+142-EÑA-BOT/CER,paceña,cervezas,"bot vd 235c",2000,8,181
+143-OSE-500/CER,"prost barley rose",cervezas,"500cc ow",30000,9,1145
+144-KEL-500/CER,"prost dunkel",cervezas,"500cc ow",35000,9,830
+145-KEL-355/CER,"prost dunkel",cervezas,"355cc lata",3800,9,1421
+146-KEL-BOT/CER,"prost dunkel",cervezas,"bot vd rt 500cc",4000,9,910
+147-REI-330/CER,"prost frei",cervezas,"330 vidrio",3000,9,356
+148-REI-355/CER,"prost frei",cervezas,"355cc lata",4000,9,1060
+149-IPA-500/CER,"prost ipa",cervezas,"500cc ow",30000,9,935
+150-IPA-355/CER,"prost ipa",cervezas,"355cc lata",35000,9,904
+151-GER-330/CER,"prost lager",cervezas,"330 vidrio",4500,9,300
+152-GER-355/CER,"prost lager",cervezas,"355cc lata",4000,9,161
+153-GER-500/CER,"prost lager",cervezas,"500cc ow",30000,9,1274
+154-GER-BOT/CER,"prost lager",cervezas,"bot vd rt 500cc",35000,9,1093
+155-EST-500/CER,"prost oktoberfest",cervezas,"500cc ow",30000,9,473
+156-NUA-BOT/CER,"prost quinua",cervezas,"bot vd rt 500cc",35000,9,766
+157-IER-BOT/CER,"prost weissbier",cervezas,"bot vd rt 500cc",4000,9,311
+158-IER-500/CER,"prost weissbier",cervezas,"500cc ow",33000,9,184
+159-IER-330/CER,"prost weissbier",cervezas,"330 vidrio",3800,9,985
+160-TAL-500/CER,"prost weissbier kristal",cervezas,"500cc ow",33000,9,410
+161-TAL-BOT/CER,"prost weissbier kristal",cervezas,"bot vd rt 500cc",5000,9,524
+162-IER-500/CER,"prost winterbier",cervezas,"500cc ow",28000,9,1355
+163-OFF-1/2/TRA,smirnoff,tragos,"1/2 lata",40000,10,1144
+164-OFF-BOT/TRA,smirnoff,tragos,"bot ret 0.710l",8000,10,613
+165-OIS-250/CER,"stella artois",cervezas,"250 ml",2500,11,1250
+166-IÑA-1/3/CER,taquiña,cervezas,"1/3 lata",2400,12,1225
+167-IÑA-100/CER,taquiña,cervezas,"1000cc grb s/h",26000,12,1111
+168-IÑA-620/CER,taquiña,cervezas,"620cc grb",7500,12,724
